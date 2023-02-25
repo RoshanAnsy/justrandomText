@@ -1,4 +1,4 @@
-# justramdomText
+# justrandomText
 <h1 color:Red> ViewModel </h1>
 <h3>viewmodel  #cardview with viewmodel</h3>
 
