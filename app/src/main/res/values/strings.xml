@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M1</string>
+    <string name="content">content</string>
+    <string name="next">next</string>
+    <string name="ramdom_text">Ramdom Text</string>
+    <string name="ramdam_text">Ramdam_text</string>
+    <string name="todo">TODO</string>
+</resources>
